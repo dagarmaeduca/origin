@@ -4,5 +4,6 @@ public class Hola {
 		System.out.println("¡Hola!");
 		Adios objAdios=new Adios();
 		objAdios.adios();
+		//Programador 1
 	}
 }
